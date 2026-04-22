@@ -1,4 +1,1 @@
-# Obsidianh
-dfgg
-trgrth
-ghgf
+# Obsidian
